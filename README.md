@@ -1,4 +1,4 @@
 AutoBot
 =======
 
-teleoperation logics and simple obstacle avoider fot the AutoBot project
+teleoperation logics and simple obstacle avoider for the AutoBot project
